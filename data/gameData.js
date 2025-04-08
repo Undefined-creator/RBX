@@ -3,7 +3,7 @@ const gameData = {
     {
       id: 101,
       name: "Shirts",
-      url: "/assets/images/robloxtools/clothing/Shirts.png",
+      url: "/assets/images/robloxtools/clothing/Shirts.webp",
       subItems: [
         {
           id: 1, name: "Banana Suit", url: "/assets/images/robloxtools/clothing/shirts/BananaSuit.png"
@@ -40,7 +40,7 @@ const gameData = {
     {
       id: 102,
       name: "T-Shirt",
-      url: "/assets/images/robloxtools/clothing/T-Shirt.png",
+      url: "/assets/images/robloxtools/clothing/T-shirts.webp",
       subItems: [
         {
           id: 1, name: "Baggy OOF! Band Shirt", url: "/assets/images/robloxtools/clothing/t-shirt/BaggyOOF!BandShirt.png"
@@ -77,7 +77,7 @@ const gameData = {
     {
       id: 103,
       name: "Sweaters",
-      url: "/assets/images/robloxtools/clothing/Sweaters.png",
+      url: "/assets/images/robloxtools/clothing/Sweaters.webp",
       subItems: [
         {
           id: 1, name: "Beige Oversized Cableknit Crop-Top", url: "/assets/images/robloxtools/clothing/sweaters/BeigeOversizedCableknitCrop-Top.png"
@@ -108,7 +108,7 @@ const gameData = {
     {
       id: 104,
       name: "Jackets",
-      url: "/assets/images/robloxtools/clothing/Jackets.png",
+      url: "/assets/images/robloxtools/clothing/Jackets.webp",
       subItems: [
         {
           id: 1, name: "Dark Puffer Jacket", url: "/assets/images/robloxtools/clothing/jackets/DarkPufferJacket.png"
@@ -145,7 +145,7 @@ const gameData = {
     {
       id: 105,
       name: "Pants",
-      url: "/assets/images/robloxtools/clothing/Pants.png",
+      url: "/assets/images/robloxtools/clothing/Pants.webp",
       subItems: [
         {
           id: 1, name: "Alien Carrying You Costume", url: "/assets/images/robloxtools/clothing/pants/AlienCarryingYouCostume.png"
@@ -182,7 +182,7 @@ const gameData = {
     {
       id: 106,
       name: "Dresses",
-      url: "/assets/images/robloxtools/clothing/Dresses.png",
+      url: "/assets/images/robloxtools/clothing/Dresses.webp",
       subItems: [
         {
           id: 1, name: "Adorable Pink Princess Gown", url: "/assets/images/robloxtools/clothing/dresses/AdorablePinkPrincessGown.png"
@@ -219,7 +219,7 @@ const gameData = {
     {
       id: 107,
       name: "Shorts",
-      url: "/assets/images/robloxtools/clothing/Shorts.png",
+      url: "/assets/images/robloxtools/clothing/Shorts.webp",
       subItems: [
         {
           id: 1, name: "Denim Ripped Shorts - Black", url: "/assets/images/robloxtools/clothing/shorts/DenimRippedShorts-Black.png"
@@ -256,7 +256,7 @@ const gameData = {
     {
       id: 108,
       name: "Shoes",
-      url: "/assets/images/robloxtools/clothing/Shoes.png",
+      url: "/assets/images/robloxtools/clothing/Shoes.webp",
       subItems: [
         {
           id: 1, name: "Adidas Classic Blue Bloxy Shoes", url: "/assets/images/robloxtools/clothing/shoes/AdidasClassicBlueBloxyShoes.png"
@@ -296,7 +296,7 @@ const gameData = {
     {
       id: 201,
       name: "Hair",
-      url: "/assets/images/robloxtools/heads/Hair.png",
+      url: "/assets/images/robloxtools/heads/Hair.webp",
       subItems: [
         {
           id: 1, name: "Aesthetic low piggytails in blonde", url: "/assets/images/robloxtools/heads/hair/Aestheticlowpiggytailsinblonde.png"
@@ -333,7 +333,7 @@ const gameData = {
     {
       id: 202,
       name: "Heads",
-      url: "/assets/images/robloxtools/heads/Heads.png",
+      url: "/assets/images/robloxtools/heads/Heads.webp",
       subItems: [
         {
           id: 1, name: "Animated Chibi Vampire Face", url: "/assets/images/robloxtools/heads/heads/AnimatedChibiVampireFace.png"
@@ -370,7 +370,7 @@ const gameData = {
     {
       id: 203,
       name: "Face",
-      url: "/assets/images/robloxtools/heads/Faces.png",
+      url: "/assets/images/robloxtools/heads/Faces.webp",
       subItems: [
         {
           id: 1, name: "3", url: "/assets/images/robloxtools/heads/faces/3.png"
@@ -654,7 +654,7 @@ const gameData = {
     {
       id: 401,
       name: "Bundles",
-      url: "/assets/images/robloxtools/animation/Bundles.png",
+      url: "/assets/images/robloxtools/animation/Bundles.webp",
       subItems: [
         {
           id: 1, name: "Bubbly Animation Package", url: "/assets/images/robloxtools/animation/bundles/BubblyAnimationPackage.png"
@@ -685,7 +685,7 @@ const gameData = {
     {
       id: 402,
       name: "Emotes",
-      url: "/assets/images/robloxtools/animation/Emotes.png",
+      url: "/assets/images/robloxtools/animation/Emotes.webp",
       subItems: [
         {
           id: 1, name: "Baby Dance", url: "/assets/images/robloxtools/animation/emotes/BabyDance.png"
@@ -724,7 +724,7 @@ const gameData = {
     {
       id: 501,
       name: "Avatar",
-      url: "/assets/images/Characters/Avatar.png",
+      url: "/assets/images/Characters/Avatar.webp",
       subItems: [
         {
           id: 1, name: "Catnap", url: "/assets/images/Characters/avatar/Catnap.png"
@@ -779,7 +779,7 @@ const gameData = {
     {
       id: 502,
       name: "Characters",
-      url: "/assets/images/Characters/Characters.png",
+      url: "/assets/images/Characters/Characters.webp",
       subItems: [
         {
           id: 1, name: "Amory the Undead Necromancer", url: "/assets/images/Characters/characters/AmorytheUndeadNecromancer.png"

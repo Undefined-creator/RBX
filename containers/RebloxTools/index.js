@@ -17,18 +17,18 @@ function RebloxTools() {
 
         <div className="grid grid-cols-2 gap-6 items-center justify-center   cursor-pointer pt-5">
           <a href="/rebloxTools/clothing">
-            <img src="/assets/images/robloxtools/Clothing.png" className="w-full h-[210px]" />
+            <img src="/assets/images/robloxtools/Clothing.webp" className="w-full h-[210px]" />
           </a>
 
           <a href="/rebloxTools/heads">
-            <img src="/assets/images/robloxtools/Heads.png" className="w-full h-[210px]" />
+            <img src="/assets/images/robloxtools/Heads.webp" className="w-full h-[210px]" />
           </a>
 
           <a href="/rebloxTools/accessories">
-            <img src="/assets/images/robloxtools/accressories.png" className="w-full h-[210px]" />
+            <img src="/assets/images/robloxtools/accressories.webp" className="w-full h-[210px]" />
           </a>
           <a href="/rebloxTools/animation">
-            <img src="/assets/images/robloxtools/Animation.png" className="w-full h-[210px]" />
+            <img src="/assets/images/robloxtools/Animation.webp" className="w-full h-[210px]" />
           </a>
         </div>
 

@@ -37,18 +37,18 @@ function Home() {
 
       <div className="flex flex-col items-center justify-center  cursor-pointer p-4">
         <a href="/rebloxTools">
-          <img src="/assets/images/rebloxTools.png" className="w-full" />
+          <img src="/assets/images/rebloxTools.webp" className="w-full" />
         </a>
 
         <a href="/characters">
-          <img src="/assets/images/Characters.png" className="w-full" />
+          <img src="/assets/images/Characters.webp" className="w-full" />
         </a>
 
         <a href="/rbxexclusive">
-          <img src="/assets/images/freeBox.png" className="w-full" />
+          <img src="/assets/images/freeBox.webp" className="w-full" />
         </a>
         <a href="/maps">
-          <img src="/assets/images/maps.png" className="w-full pt-5 pr-4" />
+          <img src="/assets/images/maps.webp" className="w-full pt-5 pr-4" />
         </a>
       </div>
       <a href="/disclaimer">

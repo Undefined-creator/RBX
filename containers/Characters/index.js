@@ -15,11 +15,11 @@ function Characters() {
         </div>
         <div className="grid grid-cols-1  items-center justify-center   cursor-pointer ">
           <a href="/characters/avatar">
-            <img src="/assets/images/Characters/Avatar.png" className="w-full " />
+            <img src="/assets/images/Characters/Avatar.webp" className="w-full " />
           </a>
 
           <a href="/characters/characters">
-            <img src="/assets/images/Characters/Characters.png" className="w-full " />
+            <img src="/assets/images/Characters/Characters.webp" className="w-full " />
           </a>
 
         </div>

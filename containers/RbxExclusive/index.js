@@ -16,11 +16,11 @@ function RbxExclusive() {
 
         <div className="grid grid-cols-1  items-center justify-center   cursor-pointer pt-10">
           <a href="/rbxexclusive/rbxpackage">
-            <img src="/assets/images/rbxExclusive/rbxpackage.png" className="w-full " />
+            <img src="/assets/images/rbxExclusive/rbxpackage.webp" className="w-full " />
           </a>
 
           <a href="/rbxexclusive/rbxpremium">
-            <img src="/assets/images/rbxExclusive/rbxpremium.png" className="w-full p-4" />
+            <img src="/assets/images/rbxExclusive/rbxpremium.webp" className="w-full p-4" />
           </a>
 
         </div>
