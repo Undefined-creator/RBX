@@ -1,11 +1,17 @@
 import ProductsDetails from '@containers/ProductsDetails'
-import React from 'react'
+import Head from 'next/head'
+import React, { Fragment } from 'react'
 
 function index() {
     return (
-        <div>
+        <Fragment>
+            <Head>
+                <title>{"Robox Exclusive"}</title>
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4575195873243785"
+                    crossorigin="anonymous"></script>
+            </Head>
             <ProductsDetails />
-        </div>
+        </Fragment>
     )
 }
 

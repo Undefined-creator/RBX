@@ -38,15 +38,15 @@ function Success() {
 
         <div className='px-2'>
           <a href="/rbxexclusive">
-            <img src="/assets/images/freeBox.png" className="w-full" />
+            <img src="/assets/images/freeBox.webp" className="w-full" />
           </a>
         </div>
         <div className="grid grid-cols-2 gap-6 items-center justify-center p-6 cursor-pointer pt-5">
           <a href="/rebloxTools/clothing">
-            <img src="/assets/images/robloxtools/Clothing.png" className="w-full h-[240px] lg:h-auto" />
+            <img src="/assets/images/robloxtools/Clothing.webp" className="w-full h-[240px] lg:h-auto" />
           </a>
           <a href="/rebloxTools/animation">
-            <img src="/assets/images/robloxtools/Animation.png" className="w-full " />
+            <img src="/assets/images/robloxtools/Animation.webp" className="w-full " />
           </a>
         </div>
       </div>

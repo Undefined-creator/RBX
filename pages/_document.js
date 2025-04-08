@@ -5,7 +5,7 @@ export default function Document() {
     <Html lang="en">
       <Head>
         <meta charSet="utf-8" />
-        <link rel="icon" href="/resources/Diamond.png" />
+        <link rel="icon" href="/assets/images/rbxExclusive/image.png" />
         <link rel="stylesheet" type="text/css" />
         <link
           rel="stylesheet"
@@ -16,7 +16,8 @@ export default function Document() {
           href="https://fonts.googleapis.com/css2?family=Jockey+One&display=swap"
           rel="stylesheet"
         />
-
+        <title>Robox Exclusive </title>
+       
         {/* Google Tag Manager Script */}
         <script dangerouslySetInnerHTML={{
           __html: `

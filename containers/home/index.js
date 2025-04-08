@@ -18,13 +18,8 @@ function Home() {
 
 
     <div className=" h-max pt-5">
-      <div className="flex items-center justify-center font-semibold pb-10">
-        <img
-          alt="Logo"
-          className="cursor-pointer w-[100px]"
-          src="/assets/images/ROBLOX.png"
-          onClick={() => router.push("/")}
-        />
+      <div className="flex items-center text-[35px] justify-center font-semibold pb-10">
+        {"ROBOX"}
       </div>
 
       <div className="p-4 ">

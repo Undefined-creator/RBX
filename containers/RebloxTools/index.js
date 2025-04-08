@@ -4,7 +4,7 @@ import React, { Fragment } from 'react'
 
 function RebloxTools() {
   return (
-    <Layout title="Reblox Tools">
+    <Layout title="Robox Tools">
 
       <div className=" p-8 pb-[200px]">
         <div className="p-4 ">
