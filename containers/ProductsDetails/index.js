@@ -22,7 +22,7 @@ function ProductsDetails() {
 
 
   return (
-    <Layout>
+    <Layout  className="text-[18px] ">
       <div className="p-4 ">
         <Ads
           data-ad-format="auto"

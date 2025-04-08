@@ -6,7 +6,7 @@ function Layout({ children, title, className }) {
   return (
     <Fragment>
       <NavBar title={title} className={className} />
-      <div className={className}>
+      <div >
         {children}
       </div>
     </Fragment>
