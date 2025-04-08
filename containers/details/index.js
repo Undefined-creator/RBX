@@ -45,7 +45,7 @@ function Details() {
               <div className='bg-top-to-bottom-soft h-full bg-opacity-20 rounded-2xl'>
                 <img
                   src={item.url}
-                  className="h-[100px] w-full p-4"
+                  className="h-[100px] w-full object-contain"
                   alt="Product"
                 />
                 <div className='text-black text-center text-[14px] font-bold  p-2 pb-4'>{item.name}</div>

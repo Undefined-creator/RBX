@@ -33,14 +33,14 @@ function Avatar() {
                         className="cursor-pointer gap-4 bg-white p-2 rounded-2xl"
                         onClick={() => goToProductsDetails(item.name, item.url, 'Avatar')}
                     >
-                        <div className='p-2 border-2 border-solid border-primary4 rounded-2xl'>
-                            <div className='bg-primary3 bg-opacity-20 rounded-2xl'>
+                        <div className='p-2 border-2 border-solid h-full border-primary4 rounded-2xl'>
+                            <div className='bg-top-to-bottom-soft h-ful bg-opacity-20 rounded-2xl'>
                                 <img
                                     src={item.url}
-                                    className="h-[150px] w-full object-contain"
+                                    className="h-[100px] w-full object-contain "
                                     alt={item.name}
                                 />
-                                <div className='text-black text-center text-[10px] font-bold p-2 pb-4'>{item.name}</div>
+                                <div className='text-black text-center text-[15px] font-bold p-2 pb-4'>{item.name}</div>
                             </div>
                         </div>
                     </div>
