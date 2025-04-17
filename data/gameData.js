@@ -963,13 +963,13 @@ const gameData = {
 
   RbxPremium: [
     {
-      id: 1,  url: "/assets/images/rbxExclusive/premium/PremimumLevels.png"
+      id: 1,  url: "/assets/images/rbxExclusive/premium/PremimumLevels.webp"
     },
     {
-      id: 2,  url: "/assets/images/rbxExclusive/premium/prmiumItels.png"
+      id: 2,  url: "/assets/images/rbxExclusive/premium/prmiumItels.webp"
     },
     {
-      id: 3, url: "/assets/images/rbxExclusive/premium/permiumBooster.png"
+      id: 3, url: "/assets/images/rbxExclusive/premium/permiumBooster.webp"
     },
    
   ]
