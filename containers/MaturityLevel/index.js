@@ -4,9 +4,9 @@ import React from 'react'
 import { FaCircleArrowRight } from 'react-icons/fa6'
 
 function MaturityLevel() {
-    const data = ["Minimal", "Mild", "Moderate", "Restricted"]
+    const data = ["Beginner", "Intermediate", "Advanced", "Professional"]
     return (
-        <Layout title="Maturity Level">
+        <Layout title="Level">
             <div className="p-4 ">
                 <Ads
                     data-ad-format="auto"

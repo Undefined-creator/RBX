@@ -18,7 +18,7 @@ function RbxPackage() {
             <div className="flex flex-col gap-5 mx-auto h-max ls:w-[360px]  pb-10">
                 <div className='grid grid-cols-1 gap-4 p-4'>
                     {gameData?.Rbxpackage?.map((item) => (
-                        <a href='/maturitylevel'>
+                        <a href='/level'>
                             <div key={item} className="cursor-pointer gap-4 bg-white p-2  rounded-2xl"
                             
                             >

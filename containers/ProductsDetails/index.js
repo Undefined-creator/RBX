@@ -47,7 +47,7 @@ function ProductsDetails() {
         <div className='flex items-center justify-center pb-5 p-5 w-full pt-10'>
 
           <div className=' flex justify-center  '>
-            <a href='/maturitylevel'>
+            <a href='/level'>
               <button className="bg-gradient-to-b from-[#C067FF] to-[#8A1BFF] w-[250px] rounded-xl text-white font-bold text-lg py-2.5 px-6  shadow-md hover:opacity-90 transition duration-300">
                 Activate Now
               </button>
